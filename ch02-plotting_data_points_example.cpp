@@ -1,7 +1,7 @@
 /*
  * File name: main.cpp
  * Developer: Jeremy Vigil
- * Email: vigilj128906@student.vvc.edu
+ * Email: 
  * Description: this is a program to make a bar chart and plot a data set.
  */
 
