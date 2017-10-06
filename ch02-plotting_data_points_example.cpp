@@ -2,7 +2,7 @@
  * File name: main.cpp
  * Developer: Jeremy Vigil
  * Email: 
- * Description: this is a program to make a bar chart and plot a data set.
+ * Description: this is a program to create a bar chart and plot a data set in a different window.
  */
 
 #include<iostream>
