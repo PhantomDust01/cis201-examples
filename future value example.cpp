@@ -1,4 +1,4 @@
-/* Filename: main.cpp
+/* Filename: example.cpp
  * Developer: CIS201 class example
  * Email: 
  * Description: This is a program to find the interest value and add it to the principal using created functions and 
